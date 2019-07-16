@@ -5,6 +5,7 @@ body{
                         'section section section section'
                         'footer footer footer footer';
     grid-template-rows: 30vh 40vh 50vh;
+    grid-template-columns: 25% 25% 25% 25%;
 }
 
 nav{
